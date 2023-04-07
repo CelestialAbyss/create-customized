@@ -1,0 +1,15 @@
+import mods.createtweaker.HauntingRecipe;
+<recipetype:create:haunting>.addJsonRecipe("deepslate", {
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:deepslate"
+    }
+  ]
+}
+);
