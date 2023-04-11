@@ -3,6 +3,10 @@
 
 Code for modifying vanilla Create recipes and material utilization.
 
+## Will you backport your scripts to 1.16.5 or older?
+
+***NO.*** It is time to move on from those versions as they are End of Life.
+
 ## How do I use your scripts with Create?
 
 First ensure you are on either Forge 1.18.2 or 1.19.2 and install CraftTweaker and CreateTweaker.
