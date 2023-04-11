@@ -3,6 +3,16 @@
 
 Code for modifying vanilla Create recipes and material utilization.
 
+## How do I use your scripts with Create?
+
+First ensure you are on either Forge 1.18.2 or 1.19.2 and install CraftTweaker and CreateTweaker.
+
+Then in your Instance folder, create a scripts folder.
+
+The folder path should look something like this: yourInstanceFolderName/scripts
+
+Then just download the .zs files from here into the scripts folder. You can also make a .txt file and change the .txt file extension to .zs then copy and paste the scripts through Notepad.
+
 ## What is CraftTweaker? Why use it?
 
 Here's a quote from the Create GitHub wiki as to why I use ZenScript:
