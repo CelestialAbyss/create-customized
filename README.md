@@ -29,4 +29,4 @@ And here's a quote directly from the front page of Open Loader: https://www.curs
 
 *Any resource packs loaded by OpenLoader should be loaded after vanilla and modded resource packs. Data pack load orders are done on a per-world basis instead and can be very annoying. Initially all data packs loaded by this mod will be loaded after vanilla and modded packs. Any mods added to the game after that initial world load will load after all previously loaded packs but only for that world. This can be fixed by using Vanilla's data pack command to correct the world order on a per-world basis. If you need more consistent control over load order I would recommend a scripting tool like CraftTweaker which is more robust and stable than the data pack system.*
 
-So if both developers recommended it, I thought "I should probably use this and transition away from JSON considering how much space it takes up visually..."
+So if both developers recommended it, I thought "I should probably use this and transition away from JSON considering how much space it takes up visually but still use it in certain cases."
