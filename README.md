@@ -11,6 +11,8 @@ I am by no means an expert, but I think I've made enough recipes to no longer be
 
 Speaking of beginners, I highly recommend CraftTweaker as it has made implementing custom recipes, durability and other things much easier! You may use my work as a point of reference along with CraftTweaker's documentation to help you get started if you want to make your own modpack, either to enjoy with friends privately or publish publicly once you learn the strings.
 
+### <p align="center" dir="auto">§</p>
+
 ## Will you backport your scripts to 1.16.5 or older?
 
 ***NO.*** It is time to move on from those versions as they are End of Life.
