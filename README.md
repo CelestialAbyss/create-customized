@@ -23,7 +23,9 @@ The folder path should look something like this: yourInstanceFolderName/scripts
 
 Then just download the .zs files from here into the scripts folder. You can also make a .txt file and change the .txt file extension to .zs then copy and paste the scripts through Notepad.
 
-## What is CraftTweaker? Why use it?
+## What is CraftTweaker? Why use it? Couldn't you just try and learn JavaScript?
+
+I could try and learn JavaScript, but it's not really clicking with me as well as ZenScript. Also, CraftTweaker is actually older than KubeJS.
 
 Here's a quote from the Create GitHub wiki as to why I use ZenScript:
 
