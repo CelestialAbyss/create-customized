@@ -25,7 +25,7 @@ Then just download the .zs files from here into the scripts folder. You can also
 
 ## What is CraftTweaker? Why use it? Couldn't you just try and learn JavaScript?
 
-I could try and learn JavaScript, but it's not really clicking with me as well as ZenScript. Also, CraftTweaker is actually older than KubeJS.
+I could try and learn JavaScript, but it's not really clicking with me as well as ZenScript. Also, CraftTweaker is actually older than KubeJS. I'm not trying to say that it is better, but KubeJS does have some bugs that I have encountered while writing recipes or tooltips.
 
 Here's a quote from the Create GitHub wiki as to why I use ZenScript:
 
