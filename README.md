@@ -3,8 +3,7 @@
 
 Code for modifying vanilla Create recipes and material utilization.
 
-Hi there! This is the CraftTweaker branch which uses ZenScript.
-My custom recipes can be found in the `scripts` folder, simply download the file after navigating through the folders or Ctrl + C the text. You can also clone the entire repository to your computer with GitHub Desktop and drag and drop the scripts folder into your Forge mod loader instance. These scripts will not work on Fabric. Just be aware you need to install the following mods:
+Hi there! If you are using CraftTweaker, all custom recipes written in ZenScript can be found in the `scripts` folder, simply download the file after navigating through the folders or Ctrl + C the text. You can also clone the entire repository to your computer with GitHub Desktop and drag and drop the scripts folder into your Forge mod loader instance. These scripts will not work on Fabric. Just be aware you need to install the following mods:
 
 * [CraftTweaker by Jaredlll08](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 * [CreateTweaker by Jaredlll08](https://curseforge.com/minecraft/mc-mods/createtweaker)
