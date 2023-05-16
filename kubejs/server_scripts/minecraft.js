@@ -9,7 +9,7 @@ onEvent('recipes', event => {
         ' F '
     ],{
         F: 'create:iron_sheet'
-    }).id('finality:bucket')
+    }).id('create_customized:bucket')
     event.shaped('minecraft:clock',[
         ' G ',
         'GMG',
@@ -17,7 +17,7 @@ onEvent('recipes', event => {
     ],{
         G: 'create:golden_sheet',
         M: 'create:precision_mechanism'
-    }).id('finality:mechanical_clock')
+    }).id('create_customized:mechanical_clock')
     event.shaped('minecraft:compass',[
         ' F ',
         'FRF',
@@ -25,7 +25,7 @@ onEvent('recipes', event => {
     ],{
         F: 'create:iron_sheet',
         R: 'minecraft:redstone'
-    }).id('finality:compass')
+    }).id('create_customized:compass')
     event.shaped('minecraft:hopper',[
         'F F',
         'FCF',
@@ -33,5 +33,5 @@ onEvent('recipes', event => {
     ],{
         F: 'create:iron_sheet',
         C: '#forge:chests/wooden'
-    }).id('finality:hopper')
+    }).id('create_customized:hopper')
 })
