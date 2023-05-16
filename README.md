@@ -8,6 +8,11 @@ Hi there! If you are using CraftTweaker, all custom recipes written in ZenScript
 * [CraftTweaker by Jaredlll08](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 * [CreateTweaker by Jaredlll08](https://curseforge.com/minecraft/mc-mods/createtweaker)
 
+If you are using KubeJS Legacy, all custom recipes are located in `kubejs\server_scripts` and you will need the following mods:
+
+* [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+* [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
+
 I am by no means an expert, but I think I've made enough recipes to no longer be considered a beginner. 
 
 Speaking of beginners, I highly recommend CraftTweaker as it has made implementing custom recipes, durability and other things much easier! You may use my work as a point of reference along with CraftTweaker's documentation to help you get started if you want to make your own modpack, either to enjoy with friends privately or publish publicly once you learn the strings.
