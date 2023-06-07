@@ -15,7 +15,7 @@ If you are using KubeJS Legacy, all custom recipes are located in `kubejs\server
 
 I am by no means an expert, but I think I've made enough recipes to no longer be considered a beginner. 
 
-Speaking of beginners, I highly recommend CraftTweaker as it has made implementing custom recipes, durability and other things much easier! You may use my work as a point of reference along with CraftTweaker's documentation to help you get started if you want to make your own modpack, either to enjoy with friends privately or publish publicly once you learn the strings.
+Speaking of beginners, I highly recommend KubeJS as it has made implementing custom recipes, durability and other things much easier! You may use my work as a point of reference along with KubeJS / CraftTweaker's documentation to help you get started if you want to make your own modpack, either to enjoy with friends privately or publish publicly once you learn the strings.
 
 ### <p align="center" dir="auto">§</p>
 
