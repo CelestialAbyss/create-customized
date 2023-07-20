@@ -20,7 +20,8 @@ Chanced outputs must always use Item.of('create:example_item').withChance(0.XX)
 */
 
 // I highly recommend copying and pasting into Visual Studio Code for proper viewing.
-// Everything here requires KubeJS 6.1 with Create 0.5.1c.
+// Everything here requires* KubeJS 6.1 with Create 0.5.1c.
+// *just for the sake of compatibility purposes since the Mixing and Compacting fix was only applied after KJS 6.1's release for the KJS Create add-on.
 
 ServerEvents.recipes(event => {
     // compacting recipes
