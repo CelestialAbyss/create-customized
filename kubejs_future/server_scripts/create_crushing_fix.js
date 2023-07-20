@@ -1,4 +1,10 @@
-// ONLY USE IF YOUR ORESTONE CRUSHING RECIPES ARE MISSING BECAUSE OF SPELUNKERY!
+// priority: 0
+
+/*
+Requires KubeJS + KubeJS Create
+
+ONLY USE IF YOUR ORESTONE CRUSHING RECIPES ARE MISSING BECAUSE OF SPELUNKERY!
+*/
 
 let ASURINE_TYPES = {
     create_asurine_crushing: 'create:asurine', 
