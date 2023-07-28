@@ -12,7 +12,7 @@ let ASURINE_TYPES = {
 }
 let CRIMSITE_TYPES = {
     create_crimsite_crushing: 'create:crimsite',
-    create_asurine_recycling: '#create:stone_types/crimsite'
+    create_crimsite_recycling: '#create:stone_types/crimsite'
 }
 let OCHRUM_TYPES = {
     create_ochrum_crushing: 'create:ochrum',
