@@ -1,4 +1,6 @@
-// modid shortcuts
+// DO NOT USE! 
+
+// modid shortcuts DO NOT USE!
 let MC = (id) => `minecraft:${id}`
 let C = (id) => `create:${id}`
 let MYST = (id) => `mysticalagriculture:${id}`
