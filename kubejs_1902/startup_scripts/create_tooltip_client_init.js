@@ -1,4 +1,6 @@
 /*
+This script NEEDS to go inside kubejs/startup_scripts.
+
 Here are all the currently supported palettes as of 0.5.1c.
 
 STANDARD_CREATE
@@ -35,6 +37,8 @@ const $Palette = Java.loadClass('com.simibubi.create.foundation.item.TooltipHelp
 /*
 You can use a list and then use a for loop like I did to add items by color palette, but here is
 essentially what it boils down to. However, you can just make a function to make this easier.
+
+This script NEEDS to go inside kubejs/startup_scripts, if you missed the first message.
 */
 
 ClientEvents.init(event => {
