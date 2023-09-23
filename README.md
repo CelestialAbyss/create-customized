@@ -3,15 +3,20 @@
 
 Code for modifying vanilla Create recipes and material utilization.
 
-Hi there! If you are using CraftTweaker, all custom recipes written in ZenScript can be found in the `scripts` folder, simply download the file after navigating through the folders or Ctrl + C the text. You can also clone the entire repository to your computer with GitHub Desktop and drag and drop the scripts folder into your Forge mod loader instance. These scripts will not work on Fabric. Just be aware you need to install the following mods:
+Hi there! If you are using KubeJS / KubeJS Legacy, all custom recipes are located in their respective folders like `kubejs_1802`, `kubejs_1902` and you will need the following mods unless specified:
+
+* [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+* [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
+* [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
+* [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+
+I will of course provide JSON exclusive recipes so you won't have to install KubeJS Create.
+
+If you are using CraftTweaker, all custom recipes written in ZenScript can be found in the `scripts` folder, simply download the file after navigating through the folders or Ctrl + C the text. You can also clone the entire repository to your computer with GitHub Desktop and drag and drop the scripts folder into your Forge mod loader instance. These scripts will not work on Fabric. Just be aware you need to install the following mods:
 
 * [CraftTweaker by Jaredlll08](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 * [CreateTweaker by Jaredlll08](https://curseforge.com/minecraft/mc-mods/createtweaker)
 
-If you are using KubeJS Legacy, all custom recipes are located in `kubejs\server_scripts` and you will need the following mods:
-
-* [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
-* [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
 
 I am by no means an expert, but I think I've made enough recipes to no longer be considered a beginner. 
 
