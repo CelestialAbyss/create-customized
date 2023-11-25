@@ -1,3 +1,6 @@
+// requires: create
+// side: client
+
 /*
 This script NEEDS to go inside kubejs/startup_scripts.
 
