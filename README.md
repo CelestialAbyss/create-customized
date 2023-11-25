@@ -29,6 +29,7 @@
 Be sure to have these mods already installed beforehand. The text in blue are links that you can click on if you are not already aware of this fact.
 
 | Perquisite Name | Version used |
+| --- | --- |
 | [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) | 1902.6.2-build.42 |
 | [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) | 1902.2.4-build.36 |
 | [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) | 1902.2.2-build.280 |
