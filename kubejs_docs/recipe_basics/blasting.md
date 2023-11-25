@@ -1,0 +1,1 @@
+# Minecraft Blasting Recipe Type
