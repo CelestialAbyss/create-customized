@@ -7,6 +7,31 @@ Hi there! If you are looking to add recipes that involve Create, you have come t
 
 You can then navigate to the branch that meets your specific needs with either KubeJS or CraftTweaker.
 
+If you still have not found the branch drop down menu or the word `branches` with a number next to it, I have also arranged for a table below with links attached. Sorted by newest Minecraft version on top.
+
+<details>
+
+<summary>KubeJS branches</summary>
+
+| Branch | Maintainance priority? |
+| --- | --- |
+| [forge/1.20.1/kubejs] | Yes, work in progress |
+| [forge/1.19.2/kubejs-6.2](https://github.com/CelestialAbyss/Create-Customized/tree/forge/1.19.2/kubejs-6.2) | Yes |
+| [forge/1.18.2/kubejs-5.5](https://github.com/CelestialAbyss/Create-Customized/tree/forge/1.18.2/kubejs-5.5) | Not priority |
+
+</details>
+
+<details>
+
+<summary>CraftTweaker branches</summary>
+
+| Branch | Maintainance priority? |
+| --- | --- |
+| [forge/1.18.2/crafttweaker](https://github.com/CelestialAbyss/Create-Customized/tree/forge/1.18.2/crafttweaker) | Not a priority |
+
+</details>
+
+
 ### <p align="center" dir="auto">§</p>
 
 # Frequently Asked Questions
