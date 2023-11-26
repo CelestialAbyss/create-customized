@@ -42,7 +42,7 @@ You can only write code by getting into it or practicing with it along with read
 
 ## Wouldn't datapacks be easier?
 
-Datapacks require a datapack loader, and matching the same exact folder path. Not only that, but it takes longer to write multiple `.json` recipes at once compared to just writing a script in either JS or ZS.
+Datapacks require a datapack loader to be globally loaded. What does globally loaded mean? It basically stops you from having to manually paste your datapack **repeatedly** across worlds. By using a datapack, you are also required to match the same exact folder path or utilize many separate `.json` files. Not only that, but it takes longer to write multiple `.json` recipes at once compared to just writing a script in either JS or ZS.
 
 ## Will you backport your scripts to 1.16.5 or older?
 
