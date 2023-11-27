@@ -19,7 +19,11 @@ can ever use.
 /**
  * This an example of JS docs.
  * @summary Tells VSC what to show you while you are typing something like a function
- * Refer to {@link {@link https://jsdoc.app/ use JSDoc} for more information.
+ * @description
+ * A common use case scenario for JSDocs are functions in the case of KubeJS.
+ * Soooo as you start typing, Visual Studio Code will show you arguements and what goes
+ * in each argument.
+ * Refer to {@link https://jsdoc.app/ use JSDoc} for more information.
  */
 
 ```
