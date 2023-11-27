@@ -5,6 +5,8 @@ A few things to note:
 - .processingTime() is mandatory to specify time to process.
 
 ```js
+// requires: kubejs_create
+
 ServerEvents.recipes(event => {
     event.recipes.create.cutting('6x create:shaft', 'create:andesite_alloy').id('create:cutting/andesite_alloy')
     // for easy implementation of all of create's base cutting recipes for wooden planks, let's use two lists.

@@ -3,11 +3,19 @@
 > [!NOTE]
 > The recipes event is a **server event** which means it belongs in `kubejs/server_scripts` and nowhere else.
 
+A shapeless crafting recipe is structured in the following order:
+
+1. The recipe result / output item stack is typed as a **string**
+2. The ingredients are typed as a **string[array]** list
+
 A few things that you must note:
+
 - For ProbeJS typing support, you will need to use `event.recipes.minecraft.crafting_shapeless()`
 - For shorthand, use `event.shapeless()` instead.
 - Recipe output is usually always first with ingredients being second.
 - Ingredients in shapeless recipes are defined within a [string array[]]()
+- The order in which you list your ingredients from top to bottom influences the arrangement of the ingredients in the crafting grid in-game.
+  - The game does automatically center or place ingredients in a way that is aesthetically pleasing
 
 ```js
 ServerEvents.recipes(event => {

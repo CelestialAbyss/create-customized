@@ -22,7 +22,14 @@
 > [!NOTE]
 > The recipes event is a **server event** which means it belongs in `kubejs/server_scripts` and nowhere else.
 
+A shaped crafting recipe is structured in the following order:
+
+1. The recipe result / output item stack is typed as a **string**
+2. The pattern is typed as a **string[array]**
+3. The keys are typed as part of an **object{}** with each key
+
 A few things that you must note:
+
 - For ProbeJS typing support, you will need to use `event.recipes.minecraft.crafting_shaped()`
 - For shorthand, use `event.shaped()` instead.
 - Recipe output is usually always first with ingredients being second.
