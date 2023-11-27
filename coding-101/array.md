@@ -10,4 +10,10 @@ let list_example = [
     'diamond',
     'coal'
 ]
+
+let crafting_shaped_example = [
+    'AAA',
+    'A A',
+    'AAA'
+]
 ```
