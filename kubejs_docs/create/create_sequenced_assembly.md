@@ -6,8 +6,12 @@ A sequenced assembly recipe is structured as follows:
   - The first item in the string array list is what is displayed in JEI / REI as the desired outcome
   - The items that are below the first item are considered **salvage**
   - Create uses a weight system, so keep that in mind when trying to get specific percentages for salvage. Higher weight = higher chance that specific outcome will occur if that isn't already obvious.
-2. Input item as a `string`
-3. Recipe sequence is written as the second array.
+2. Only accepts 4 different Create recipe types for each step in the sequenced assembly recipe.
+  - Cutting which is written as: `event.recipes.create.cutting()`
+  - Deploying which is written as: `event.recipes.create.deploying()`
+  - Filling which is written as: `event.recipes.create.filling()`
+  - Pressing which is written as: `event.recipes.create.pressing()`
+3. Recipe sequence is written within the second `array[]`.
 4. The transitional item is written as a string in `.transitionalItem()`
   - For example: `.transitionalItem('create:incomplete_precision_mechanism')`
 5. The amount of times the sequence must be repeated. This is specified with `.loops()` For example `.loops(5)` means that the sequence will have to be looped 5 times to get the output results to occur.
