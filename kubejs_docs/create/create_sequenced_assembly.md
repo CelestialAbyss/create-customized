@@ -64,3 +64,13 @@ ServerEvents.recipes(event => {
     ]).transitionalItem('create:incomplete_track').loops(1).id('create:sequenced_assembly/track')
 })
 ```
+
+If you wish to register a custom item for use as a transitional item in a sequenced assembly recipe, you can do so by pasting this in a `.js` file placed into the `kubejs/startup_scripts` folder.
+
+```js
+StartupEvents.registry('item', event => {
+	event.create('kubejs:incomplete_spore_blossom', 'create:sequenced_assembly')
+})
+```
+
+The texture is automatically referenced as long as it's in the same resource location. In this case, it will be `assets/kubejs/textures/item/incomplete_spore_blossom.png`.
